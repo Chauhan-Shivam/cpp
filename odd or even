@@ -7,7 +7,7 @@ int main()
     cout<<"Enter a number: ";
     cin >> a;
     if(a%2==0)
-    cout <<"Even Number";
+    cout <<"Number is Even";
     else
-    cout <<"Odd Number";
+    cout <<"Number is Odd";
 }
